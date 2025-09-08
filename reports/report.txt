@@ -2,269 +2,269 @@
 ========================================
 
 Hash: 
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: d8578edf8458ce06fbc5bb76a58c5ca4
-Status: [32m✅ Cracked: qwerty[0m
+Status: ✅ Cracked: qwerty
 
 Hash: d8578edf8458ce06fbc5bb76a58c5ca4
-Status: [32m✅ Cracked: qwerty[0m
+Status: ✅ Cracked: qwerty
 
 Hash: 6dbd0fe19c9a301c4708287780df41a2
-Status: [32m✅ Cracked: qwerty1[0m
+Status: ✅ Cracked: qwerty1
 
 Hash: 25d55ad283aa400af464c76d713c07ad
-Status: [32m✅ Cracked: 12345678[0m
+Status: ✅ Cracked: 12345678
 
 Hash: 5f4dcc3b5aa765d61d8327deb882cf99
-Status: [32m✅ Cracked: password[0m
+Status: ✅ Cracked: password
 
 Hash: 40be4e59b9a2a2b5dffb918c0e86b3d7
-Status: [32m✅ Cracked: welcome[0m
+Status: ✅ Cracked: welcome
 
 Hash: 0192023a7bbd73250516f069df18b500
-Status: [32m✅ Cracked: admin123[0m
+Status: ✅ Cracked: admin123
 
 Hash: e99a18c428cb38d5f260853678922e03
-Status: [32m✅ Cracked: abc123[0m
+Status: ✅ Cracked: abc123
 
 Hash: 2782a8e3b63cfb625cd8d891c8d8d750
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 9f631974a9b624fca0ae51b79395db28
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 3db6b24c1d138af9e80730ad707ae586
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: bd47e148cef4fd9f3c753f38f40a3b53
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 3992fa586fe4f340b3210f6bcc49e8a0
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 62c8ad0a15d9d1ca38d5dee762a16e01
-Status: [32m✅ Cracked: 1234qwer[0m
+Status: ✅ Cracked: 1234qwer
 
 Hash: 5f4dcc3b5aa765d61d8327deb882cf99
-Status: [32m✅ Cracked: password[0m
+Status: ✅ Cracked: password
 
 Hash: 32d68362507d85932a84dbcdd4686981
-Status: [32m✅ Cracked: p@ssw@rd[0m
+Status: ✅ Cracked: p@ssw@rd
 
 Hash: 84d961568a65073a3bcf0eb216b2a576
-Status: [32m✅ Cracked: superman[0m
+Status: ✅ Cracked: superman
 
 Hash: e10adc3949ba59abbe56e057f20f883e
-Status: [32m✅ Cracked: 123456[0m
+Status: ✅ Cracked: 123456
 
 Hash: e10adc3949ba59abbe56e057f20f883e
-Status: [32m✅ Cracked: 123456[0m
+Status: ✅ Cracked: 123456
 
 Hash: 3fc0a7acf087f549ac2b266baf94b8b1
-Status: [32m✅ Cracked: qwerty123[0m
+Status: ✅ Cracked: qwerty123
 
 Hash: 827ccb0eea8a706c4c34a16891f84e7b
-Status: [32m✅ Cracked: 12345[0m
+Status: ✅ Cracked: 12345
 
 Hash: bbb8aae57c104cda40c93843ad5e6db8
-Status: [32m✅ Cracked: 111111111[0m
+Status: ✅ Cracked: 111111111
 
 Hash: b0baee9d279d34fa1dfd71aadb908c3f
-Status: [32m✅ Cracked: 11111[0m
+Status: ✅ Cracked: 11111
 
 Hash: 21232f297a57a5a743894a0e4a801fc3
-Status: [32m✅ Cracked: admin[0m
+Status: ✅ Cracked: admin
 
 Hash: 0192023a7bbd73250516f069df18b500
-Status: [32m✅ Cracked: admin123[0m
+Status: ✅ Cracked: admin123
 
 Hash: f25a2fc72690b780b2a14e140ef6a9e0
-Status: [32m✅ Cracked: iloveyou[0m
+Status: ✅ Cracked: iloveyou
 
 Hash: 4297f44b13955235245b2497399d7a93
-Status: [32m✅ Cracked: 123123[0m
+Status: ✅ Cracked: 123123
 
 Hash: c98703aed69284552ffffea25a1706d9
-Status: [32m✅ Cracked: 123454321[0m
+Status: ✅ Cracked: 123454321
 
 Hash: dcddb75469b4b4875094e14561e573d8
-Status: [32m✅ Cracked: 00000[0m
+Status: ✅ Cracked: 00000
 
 Hash: 5ebe2294ecd0e0f08eab7690d2a6ee69
-Status: [32m✅ Cracked: secret[0m
+Status: ✅ Cracked: secret
 
 Hash: 040b7cf4a55014e185813e0644502ea9
-Status: [32m✅ Cracked: asdfg[0m
+Status: ✅ Cracked: asdfg
 
 Hash: ec0e2603172c73a8b644bb9456c1ff6e
-Status: [32m✅ Cracked: batman[0m
+Status: ✅ Cracked: batman
 
 Hash: d1ebaaac13d8a73b0cbf1b8e99c329dd
-Status: [32m✅ Cracked: imbatman[0m
+Status: ✅ Cracked: imbatman
 
 Hash: ee11cbb19052e40b07aac0ca060c23ee
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 6a1401ef0d98b9b33705472f0c2dea69
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: d56b699830e77ba53855679cb1d252da
-Status: [32m✅ Cracked: login[0m
+Status: ✅ Cracked: login
 
 Hash: 084e0343a0486ff05530df6c705c8bb4
-Status: [32m✅ Cracked: guest[0m
+Status: ✅ Cracked: guest
 
 Hash: f6c6616ad14842412417be75171aece2
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: eb0a191797624dd3a48fa681d3061212
-Status: [32m✅ Cracked: master[0m
+Status: ✅ Cracked: master
 
 Hash: 3d2172418ce305c7d16d4b05597c6a59
-Status: [32m✅ Cracked: 22222[0m
+Status: ✅ Cracked: 22222
 
 Hash: 5badcaf789d3d1d09794d8f021f40f0e
-Status: [32m✅ Cracked: starwars[0m
+Status: ✅ Cracked: starwars
 
 Hash: 31f1e7bc568af73877e777015e207748
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 3bf1114a986ba87ed28fc1b5884fc2f8
-Status: [32m✅ Cracked: shadow[0m
+Status: ✅ Cracked: shadow
 
 Hash: 0d94d92e3dc096f64213a5b34fa9d098
-Status: [32m✅ Cracked: ironman[0m
+Status: ✅ Cracked: ironman
 
 Hash: a96cdd558dcbc0d1f98618caf0493ea7
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 4badaee57fed5610012a296273158f5f
-Status: [32m✅ Cracked: 102030[0m
+Status: ✅ Cracked: 102030
 
 Hash: 01cfcd4f6b8770febfb40cb906715822
-Status: [32m✅ Cracked: 54321[0m
+Status: ✅ Cracked: 54321
 
 Hash: e82c4b19b8151ddc25d4d93baf7b908f
-Status: [32m✅ Cracked: 2468[0m
+Status: ✅ Cracked: 2468
 
 Hash: c5fe25896e49ddfe996db7508cf00534
-Status: [32m✅ Cracked: 55555[0m
+Status: ✅ Cracked: 55555
 
 Hash: f1c1592588411002af340cbaedd6fc33
-Status: [32m✅ Cracked: 777[0m
+Status: ✅ Cracked: 777
 
 Hash: d16fb36f0911f878998c136191af705e
-Status: [32m✅ Cracked: xyz[0m
+Status: ✅ Cracked: xyz
 
 Hash: 572e74cdf761d0e4038509919cd8af1a
-Status: [32m✅ Cracked: 001122334455[0m
+Status: ✅ Cracked: 001122334455
 
 Hash: 7ac66c0f148de9519b8bd264312c4d64
-Status: [32m✅ Cracked: abcdefg[0m
+Status: ✅ Cracked: abcdefg
 
 Hash: dad3a37aa9d50688b5157698acfd7aee
-Status: [32m✅ Cracked: xxxxxx[0m
+Status: ✅ Cracked: xxxxxx
 
 Hash: f379eaf3c831b04de153469d1bec345e
-Status: [32m✅ Cracked: 666666[0m
+Status: ✅ Cracked: 666666
 
 Hash: c5fe25896e49ddfe996db7508cf00534
-Status: [32m✅ Cracked: 55555[0m
+Status: ✅ Cracked: 55555
 
 Hash: f379eaf3c831b04de153469d1bec345e
-Status: [32m✅ Cracked: 666666[0m
+Status: ✅ Cracked: 666666
 
 Hash: 5f0a5899d7f5abdeda7a7b9b25b04384
-Status: [32m✅ Cracked: 10987654321[0m
+Status: ✅ Cracked: 10987654321
 
 Hash: 5d41402abc4b2a76b9719d911017c592
-Status: [32m✅ Cracked: hello[0m
+Status: ✅ Cracked: hello
 
 Hash: 4781ac9273d3335229ca90e8e00a1c71
-Status: [32m✅ Cracked: kite[0m
+Status: ✅ Cracked: kite
 
 Hash: f057f5ccb87a310534b9dda3a69a72c4
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: hii
 
 Hash: 444bcb3a3fcf8389296c49467f27e1d6
-Status: [32m✅ Cracked: ok[0m
+Status: ✅ Cracked: ok
 
 Hash: 912ec803b2ce49e4a541068d495ab570
-Status: [32m✅ Cracked: asdf[0m
+Status: ✅ Cracked: asdf
 
 Hash: 912ec803b2ce49e4a541068d495ab570
-Status: [32m✅ Cracked: asdf[0m
+Status: ✅ Cracked: asdf
 
 Hash: 6d0007e52f7afb7d5a0650b0ffb8a4d1
-Status: [32m✅ Cracked: yo[0m
+Status: ✅ Cracked: yo
 
 Hash: 351da765a350044e32ff4612ce5fe253
-Status: [32m✅ Cracked: avenger[0m
+Status: ✅ Cracked: avenger
 
 Hash: f057f5ccb87a310534b9dda3a69a72c4
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: hii
 
 Hash: f057f5ccb87a310534b9dda3a69a72c4
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: hii
 
 Hash: 4781ac9273d3335229ca90e8e00a1c71
-Status: [32m✅ Cracked: kite[0m
+Status: ✅ Cracked: kite
 
 Hash: 934b535800b1cba8f96a5d72f72f1611
-Status: [32m✅ Cracked: 2222[0m
+Status: ✅ Cracked: 2222
 
 Hash: f057f5ccb87a310534b9dda3a69a72c4
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: hii
 
 Hash: d8052f9e09a17e6907629e76bbd261cc
-Status: [32m✅ Cracked: mohit[0m
+Status: ✅ Cracked: mohit
 
 Hash: c9fedf43460997594c3cd56c47cdd6ee
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: ber
 
 Hash: e64cfa3fd59e32df57003c7401f48c99
-Status: [32m✅ Cracked: loki[0m
+Status: ✅ Cracked: loki
 
 Hash: 944ba223a5c1b5f4b495708e7cd5ee37
-Status: [32m✅ Cracked: monday[0m
+Status: ✅ Cracked: monday
 
 Hash: aab6d239230c4093bd8930c195e996f4
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: d6ca3fd0c3a3b462ff2b83436dda495e
-Status: [32m✅ Cracked: kali[0m
+Status: ✅ Cracked: kali
 
 Hash: d6ca3fd0c3a3b462ff2b83436dda495e
-Status: [32m✅ Cracked: kali[0m
+Status: ✅ Cracked: kali
 
 Hash: 850361bdf359ecf677676968b0db44ad
-Status: [32m✅ Cracked: pqrst[0m
+Status: ✅ Cracked: pqrst
 
 Hash: 23eeeb4347bdd26bfc6b7ee9a3b755dd
-Status: [32m✅ Cracked: python[0m
+Status: ✅ Cracked: python
 
 Hash: 79e117a2cc3cd7fd57bf793a26229ec0
-Status: [32m✅ Cracked: aaditya[0m
+Status: ✅ Cracked: aaditya
 
 Hash: e187a4b2db3f9b07430e563fd6749a7a
-Status: [32m✅ Cracked: ishan123[0m
+Status: ✅ Cracked: ishan123
 
 Hash: 48d44ecd276e3898f94456f86419dda3
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 48418969a4071bf494272463b4e6b324
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 5e8667a439c68f5145dd2fcbecf02209
-Status: [32m✅ Cracked: 87654321[0m
+Status: ✅ Cracked: 87654321
 
 Hash: d9aa7544b13280f9a30f652e6ba652de
-Status: [31m❌ Not Found[0m
+Status: ❌ Not Found
 
 Hash: 9facbf452def2d7efc5b5c48cdb837fa
-Status: [32m✅ Cracked: joker[0m
+Status: ✅ Cracked: joker
 
 Hash: fff1ad9118aa1256e3128a00f2ea795a
-Status: [31m❌ Not Found[0m
+Status: ✅ Cracked: rohit@123
 
