@@ -40,12 +40,12 @@ def main():
 
 
 # ---------------- Flask Backend ----------------
-# @app.route("/")
-# def index():
-#     return render_template("index.html")
-@app.route("/", methods=["GET"])
-def home():
+@app.route("/")
+def index():
     return render_template("index.html")
+# @app.route("/", methods=["GET"])
+# def home():
+#     return render_template("index.html")
 
 @app.route("/crack", methods=["POST"])
 def crack():
