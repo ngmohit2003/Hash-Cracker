@@ -2,8 +2,8 @@ from modules import report_writer
 from modules.cracker import crack_hash
 from tabulate import tabulate
 from termcolor import colored
-from flask import Flask, render_template, request, redirect, url_for
-import os
+from flask import Flask, render_template, request, redirect, url_for, cuurrent_app
+import os, traceback
 import sys
 
 app = Flask(__name__)
@@ -40,8 +40,11 @@ def main():
 
 
 # ---------------- Flask Backend ----------------
-@app.route("/")
-def index():
+# @app.route("/")
+# def index():
+#     return render_template("index.html")
+@app.route("/", methods=["GET"])
+def home():
     return render_template("index.html")
 
 @app.route("/crack", methods=["POST"])
